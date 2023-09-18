@@ -2,11 +2,12 @@
 ### Master of Information and Data Science Program (MIDS)
 ### w205 - Fundamentals of Data Engineering
 
-* Year:
-* Semester:
-* Section:
-* Instructor:
+## Getting Closer to Consumer: Technology proposal (NoSql database solution) for a startup to improve the delivery service. 
+* Year:2022
+* Semester:Fall
+* Section:5
+* Instructor:kevin crook
 * Team Members:
-    * team member 1
-    * team member 2
-    * team member 3
+    * Nishika Abeytunge
+    * Peeti Sriwongsanguan
+    * Ahmad Umair
